@@ -1,0 +1,24 @@
+{
+  "name": "project-node-dua",
+  "version": "1.0.0",
+  "description": "Node.js 14.x",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"OK\" && exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dojongulik/project-node-dua.git"
+  },
+  "keywords": [
+    "belajar",
+    "nodejs"
+  ],
+  "author": "Garasi Ngulik <dojo@garasingulik.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dojongulik/project-node-dua/issues"
+  },
+  "homepage": "https://github.com/dojongulik/project-node-dua#readme"
+}
